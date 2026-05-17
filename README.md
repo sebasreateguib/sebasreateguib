@@ -1,10 +1,10 @@
-<h1> Hi, Im Sebastian 👋</h1>
+<h1> Hello there, SR here </h1>
 
 <img src="intro.gif" align="right" width="400" style="margin-left: 15px;" alt="Terminal Interface" />
 
 <div style="display: block;">
 
-> I am a **Computer Science student** living in Lima, Peru. I always enjoy learning new things and giving my best to every project.
+> I'm a **Computer Science student** living in Lima, Peru. I always enjoy learning new things and giving my best to every project.
 
 ### Interests 🎯
 > AI, Fintech, Full Stack Development, Infrastructure, Systems Optimization and Computer Architecture.
