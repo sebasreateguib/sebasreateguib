@@ -1,6 +1,10 @@
-<h1> Hello there, SR here </h1>
-
+<h1> Hello there, SR here 👋 </h1>
 <img src="intro.gif" align="right" width="350" style="margin-left: 15px;" alt="Terminal Interface" />
+<br/>
+<!-- Animación SVG con el color dorado exacto de tu interfaz de terminal -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB86C&width=550&height=40&lines=Thinking+in+O(1)+but+living+in+O(n).;Locating+the+missing+semicolon+since+day+one.;Where+'it+works+on+my+machine'+is+a+valid+argument%2C+lol." alt="Typing SVG" />
+</a>
 
 <div style="display: block;">
 
@@ -8,6 +12,8 @@
 
 ### Interests 🎯
 > AI, Fintech, Full Stack Development, Infrastructure, Systems Optimization and Computer Architecture.
+
+</div>
 
 <br />
 
