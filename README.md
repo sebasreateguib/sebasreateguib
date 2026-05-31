@@ -5,10 +5,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB86C&width=550&height=40&lines=Thinking+in+O(1)+but+living+in+O(n).;Locating+the+missing+semicolon+since+day+one.;Where+'it+works+on+my+machine'+is+a+valid+argument%2C+lol." alt="Typing SVG" />
 </a>
 
-<!-- El GIF flotando a la izquierda -->
-<img src="intro.gif" align="left" width="350" style="margin-right: 20px; margin-bottom: 20px;" alt="Terminal Interface" />
+<!-- El GIF flotando a la derecha -->
+<img src="intro.gif" align="right" width="350" style="margin-left: 20px; margin-bottom: 20px;" alt="Terminal Interface" />
 
-<!-- Este contenido se renderizará a la derecha del GIF -->
+<!-- Este contenido se renderizará a la izquierda del GIF -->
 <div>
 <br />
   
@@ -21,7 +21,7 @@ AI, Fintech, Full Stack Development, Infrastructure, Systems Optimization and Co
 </div>
 
 <!-- Rompemos el flujo flotante aquí para que el Tech Stack empiece abajo de la imagen -->
-<br clear="left" />
+<br clear="both" />
 <br />
 
 ### Tech Stack 💻
