@@ -1,21 +1,16 @@
 <h1> Hello there, SR here 👋 </h1>
+
 <!-- Animación SVG con el color dorado exacto de tu interfaz de terminal -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB86C&width=550&height=40&lines=Thinking+in+O(1)+but+living+in+O(n).;Locating+the+missing+semicolon+since+day+one.;Where+'it+works+on+my+machine'+is+a+valid+argument%2C+lol." alt="Typing SVG" />
 </a>
+<img src="intro.gif" width="350" alt="Terminal Interface" />
+<br /><br />
 
-<img src="intro.gif" align="right" width="350" style="margin-left: 15px;" alt="Terminal Interface" />
-
-<div style="display: block;">
-
-> I'm a **Computer Science student** living in Lima, Peru. I always enjoy learning new things and giving my best to every project.
+> I'm a **Computer Science student** living in Lima, Peru. I always enjoy learning new things and giving my best to every project.</blockquote>
 
 ### Interests 🎯
-> AI, Fintech, Full Stack Development, Infrastructure, Systems Optimization and Computer Architecture.
-
-</div>
-
-<br />
+<blockquote> AI, Fintech, Full Stack Development, Infrastructure, Systems Optimization and Computer Architecture.</blockquote>
 
 ### Tech Stack 💻
 <p align="left">
@@ -26,6 +21,3 @@
 <p align="left">
 <img src="https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google-gemini&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/-OpenRouter-6566E5?style=flat-square&logo=openrouter&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/-Groq-F55036?style=flat-square&logo=groq&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/-MCP_Servers-FF4B11?style=flat-square&logo=anthropic&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/-Skills.md-00ADFF?style=flat-square&logo=probot&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
 </p>
-
-</div>
-<br clear="right" />
