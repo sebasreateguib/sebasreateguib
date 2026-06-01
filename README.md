@@ -1,11 +1,6 @@
 <h1> Hello there, SR here 👋 </h1>
 
 <div>
-<!-- Animación SVG con el color dorado exacto de tu interfaz de terminal -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007BFF&width=550&height=40&lines=Thinking+in+O(1)+but+living+in+O(n).;Locating+the+missing+semicolon+since+day+one.;Where+'it+works+on+my+machine'+is+a+valid+argument%2C+lol." alt="Typing SVG" />
-</a>
-  
 <pre>
 #    ██     ██ ███████ ██       ██████  ██████  ███    ███ ███████ ██ 
 #    ██     ██ ██      ██      ██      ██    ██ ████  ████ ██      ██ 
@@ -13,6 +8,11 @@
 #    ██ ███ ██ ██      ██      ██      ██    ██ ██  ██  ██ ██         
 #     ███ ███  ███████ ███████  ██████  ██████  ██      ██ ███████ ██ 
 </pre>
+
+<!-- Animación SVG con el color dorado exacto de tu interfaz de terminal -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007BFF&width=550&height=40&lines=Thinking+in+O(1)+but+living+in+O(n).;Locating+the+missing+semicolon+since+day+one.;Where+'it+works+on+my+machine'+is+a+valid+argument%2C+lol." alt="Typing SVG" />
+</a>
 
 **CS Student @ UTEC**
 
