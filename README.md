@@ -19,7 +19,7 @@ Open to internships and freelance projects!*
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SReateguiUtec&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <p align="left">
-  <a href="https://sreateguidev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=007BFF" alt="Portfolio" /></a>&nbsp;
+  <a href="https://sreateguibellido.xyz/" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=007BFF" alt="Portfolio" /></a>&nbsp;
   <a href="mailto:reateguisebastian1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
