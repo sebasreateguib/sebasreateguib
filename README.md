@@ -46,11 +46,11 @@ I always enjoy learning new things and giving my best to every project.
 <img src="https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google-gemini&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/-OpenRouter-6566E5?style=flat-square&logo=openrouter&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/-Groq-F55036?style=flat-square&logo=groq&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/-MCP_Servers-FF4B11?style=flat-square&logo=anthropic&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/-Skills.md-00ADFF?style=flat-square&logo=probot&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
 </p>
 
-<br />
+
+## 👾 GitHub Space Shooter
+![Space Shooter Game](./game.gif)
 
 <!-- Animación SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007BFF&width=550&height=40&lines=Defending+the+codebase%2C+one+commit+at+a+time.;Shooting+down+bugs+before+they+reach+production." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007BFF&width=650&height=40&lines=Defending+the+codebase%2C+one+commit+at+a+time.;Shooting+down+bugs+before+they+reach+production." alt="Typing SVG" />
 </a>
-
-![Space Shooter Game](./game.gif)
