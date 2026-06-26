@@ -16,7 +16,13 @@ Open to internships and freelance projects!*
 
 <ins>**Some quick info**</ins>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=SReateguiUtec&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SReateguiUtec&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" height="165" />
+  &nbsp;&nbsp;
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=SReateguiUtec&theme=rising-sun&short_numbers=true&card_height=165" alt="GitHub Streak" height="165" />
+  </a>
+</p>
 
 <p align="left">
   <a href="https://sreateguibellido.xyz/" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=007BFF" alt="Portfolio" /></a>&nbsp;
