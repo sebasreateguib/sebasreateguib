@@ -1,7 +1,7 @@
-<h1> your avg comp sci student... </h1>
+<h1> Hi there! 👋 </h1>
 
 <p align="center">
-  <img src="header-anime.png" alt="Sebastian's Header Banner" width="100%" max-width="850px" />
+  <img src="header.png" alt="Sebastian's Header Banner" width="100%"/>
 </p>
   
 <ins>**CS Student @ UTEC**</ins>
