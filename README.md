@@ -1,13 +1,8 @@
-<h1> Hi there 👋, I'm Sebastian! </h1>
+<h1> full stack student, part-time debugger... </h1>
 
-<div>
-<pre>
-#    ██     ██ ███████ ██       ██████  ██████  ███    ███ ███████ ██ 
-#    ██     ██ ██      ██      ██      ██    ██ ████  ████ ██      ██ 
-#    ██  █  ██ █████   ██      ██      ██    ██ ██ ████ ██ █████   ██ 
-#    ██ ███ ██ ██      ██      ██      ██    ██ ██  ██  ██ ██         
-#     ███ ███  ███████ ███████  ██████  ██████  ██      ██ ███████ ██ 
-</pre>
+<p align="center">
+  <img src="headeranime.png" alt="Sebastian's Header Banner" width="100%" max-width="850px" />
+</p>
   
 <ins>**CS Student @ UTEC**</ins>
 
