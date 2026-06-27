@@ -1,7 +1,7 @@
 <h1> full stack student, part-time debugger... </h1>
 
 <p align="center">
-  <img src="headeranime.png" alt="Sebastian's Header Banner" width="100%" max-width="850px" />
+  <img src="header-anime.png" alt="Sebastian's Header Banner" width="100%" max-width="850px" />
 </p>
   
 <ins>**CS Student @ UTEC**</ins>
