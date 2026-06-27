@@ -1,4 +1,4 @@
-<h1> full stack student, part-time debugger... </h1>
+<h1> your avg comp sci student... </h1>
 
 <p align="center">
   <img src="header-anime.png" alt="Sebastian's Header Banner" width="100%" max-width="850px" />
