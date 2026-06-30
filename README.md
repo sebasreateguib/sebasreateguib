@@ -1,7 +1,7 @@
 <h1> Hi there! 👋 </h1>
 
 <p align="center">
-  <img src="header-main.png" alt="Sebastian's Header Banner" width="100%"/>
+  <img src="header.png" alt="Sebastian's Header Banner" width="100%"/>
 </p>
   
 <ins>**CS Student @ UTEC**</ins>
