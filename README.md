@@ -53,6 +53,6 @@ I always enjoy learning new things and giving my best to every project.
 <!-- Animación SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&center=true&vCenter=true&pause=1000&color=007BFF&width=750&height=40&lines=Defending+the+codebase%2C+one+commit+at+a+time!;Shooting+down+bugs+before+they+reach+production+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&center=true&vCenter=true&pause=1000&color=007BFF&width=950&height=40&lines=Defending+the+codebase%2C+one+commit+at+a+time!;Shooting+down+bugs+before+they+reach+production.." alt="Typing SVG" />
   </a>
 </p>
