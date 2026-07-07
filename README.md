@@ -1,8 +1,13 @@
-<h1> Hi there! 👋 </h1>
+<h1> Hi there 👋, I'm Sebastian! </h1>
 
-<p align="center">
-  <img src="header.png" alt="Sebastian's Header Banner" width="100%"/>
-</p>
+<div>
+<pre>
+#    ██     ██ ███████ ██       ██████  ██████  ███    ███ ███████ ██ 
+#    ██     ██ ██      ██      ██      ██    ██ ████  ████ ██      ██ 
+#    ██  █  ██ █████   ██      ██      ██    ██ ██ ████ ██ █████   ██ 
+#    ██ ███ ██ ██      ██      ██      ██    ██ ██  ██  ██ ██         
+#     ███ ███  ███████ ███████  ██████  ██████  ██      ██ ███████ ██ 
+</pre>
   
 <ins>**CS Student @ UTEC**</ins>
 
