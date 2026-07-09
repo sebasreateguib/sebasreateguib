@@ -14,7 +14,7 @@ Open to internships and freelance projects!*
 
 ## About me
 
-I always enjoy learning new things and giving my best to every project.
+I always enjoy learning new things and giving my best to every project. Currently in my third-year just trying to survive lol.
 <br/>
 <p>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SReateguiUtec&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" height="165" />
