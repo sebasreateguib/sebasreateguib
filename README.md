@@ -1,6 +1,6 @@
 <h1> Hi there 👋, I'm Sebastian! </h1>
 
-<ins>**CS Student @ UTEC**</ins>
+![CS Student @ UTEC](https://capsule-render.vercel.app/api?type=waving&height=250&color=4A90E2&text=CS%20Student%20@%20UTEC&fontSize=35&fontAlign=50&fontAlignY=40&descAlign=0&descAlignY=0&descSize=50&animation=fadeIn&rotate=0)
 
 *I'm a **Computer Science student** living in Lima, Peru. Focused on clean code, modern infrastructure, and AI. <br/>
 Open to internships and freelance projects!*
