@@ -5,7 +5,10 @@
 *I'm a **Computer Science student** based in Lima, Peru. Focused on clean code, modern infrastructure, and AI. <br/>
 Open to internships and freelance projects!*
 
-![Space Shooter Game](./game.gif)
+<p align="left">
+  <a href="https://sreateguibellido.xyz/" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=007BFF" alt="Portfolio" /></a>&nbsp;
+  <a href="mailto:reateguisebastian1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
 
 ---
 
@@ -14,14 +17,19 @@ Open to internships and freelance projects!*
 *I always enjoy learning new things and giving my best to every project. Currently in my third-year just trying to survive lol. <br/>
 Also seeking future roles as an AI Engineer or Full Stack Developer.*
 
-<p align="left">
-  <a href="https://sreateguibellido.xyz/" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=007BFF" alt="Portfolio" /></a>&nbsp;
-  <a href="mailto:reateguisebastian1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-</p>
-
 > **Next up:** `Rust` - `Zig` - `NestJS`
 >
 > **Interests:** `AI` - `Full Stack Development` - `Infrastructure` - `Systems Optimization`
+
+<br/>
+
+<p>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sebasreateguib&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" height="165" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/cyberknight777/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebasreateguib&theme=dark&short_numbers=true&card_height=165" alt="GitHub Streak" height="165" />
+  </a>
+</p>
 
 
 ## Tech Stack
@@ -38,10 +46,4 @@ Also seeking future roles as an AI Engineer or Full Stack Developer.*
 
 ---
 
-<p>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sebasreateguib&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" height="165" />
-  &nbsp;&nbsp;
-  <a href="https://github.com/cyberknight777/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebasreateguib&theme=dark&short_numbers=true&card_height=165" alt="GitHub Streak" height="165" />
-  </a>
-</p>
+![Space Shooter Game](./game.gif)
