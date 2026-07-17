@@ -15,7 +15,7 @@ Open to internships and freelance projects!*
 ## About me
 
 *I always enjoy learning new things and giving my best to every project. Currently in my third-year just trying to survive lol. <br/>
-Also seeking future roles as an AI Engineer or Full Stack Developer!*
+Also seeking future roles as an AI Engineer or Full Stack Developer.*
 
 > **Next up:** `Rust` - `Zig` - `NestJS`
 >
