@@ -2,7 +2,7 @@
 
 <ins>**CS Student @ UTEC**</ins>
 
-*I'm a **Computer Science student** living in Lima, Peru. Focused on clean code, modern infrastructure, and AI. <br/>
+*I'm a **Computer Science student** based in Lima, Peru. Focused on clean code, modern infrastructure, and AI. <br/>
 Open to internships and freelance projects!*
 
 <p align="left">
@@ -14,7 +14,8 @@ Open to internships and freelance projects!*
 
 ## About me
 
-I always enjoy learning new things and giving my best to every project. Currently in my third-year just trying to survive lol.
+*I always enjoy learning new things and giving my best to every project. Currently in my third-year just trying to survive lol. <br/>
+Also seeking future roles as an AI Engineer or Full Stack Developer.*
 
 > **Next up:** `Rust` - `Zig` - `NestJS`
 >
