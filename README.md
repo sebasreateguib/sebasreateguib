@@ -7,17 +7,17 @@ Open to internships and freelance projects!*
 
 ![Space Shooter Game](./game.gif)
 
+<p align="left">
+  <a href="https://sreateguibellido.xyz/" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=007BFF" alt="Portfolio" /></a>&nbsp;
+  <a href="mailto:reateguisebastian1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
+
 ---
 
 ## About me
 
 *I always enjoy learning new things and giving my best to every project. Currently in my third-year just trying to survive lol. <br/>
 Also seeking future roles as an AI Engineer or Full Stack Developer.*
-
-<p align="left">
-  <a href="https://sreateguibellido.xyz/" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=007BFF" alt="Portfolio" /></a>&nbsp;
-  <a href="mailto:reateguisebastian1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-</p>
 
 > **Next up:** `Rust` - `Zig` - `NestJS`
 >
