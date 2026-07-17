@@ -15,7 +15,6 @@ Open to internships and freelance projects!*
 ## About me
 
 I always enjoy learning new things and giving my best to every project. Currently in my third-year just trying to survive lol.
-<br/>
 
 > **Next up:** `Rust` - `Zig` - `NestJS`
 >
