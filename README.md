@@ -21,6 +21,8 @@ Also seeking future roles as an AI Engineer or Full Stack Developer.*
 >
 > **Interests:** `AI` - `Full Stack Development` - `Infrastructure` - `Systems Optimization`
 
+<br/>
+
 <p>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sebasreateguib&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" height="165" />
   &nbsp;&nbsp;
