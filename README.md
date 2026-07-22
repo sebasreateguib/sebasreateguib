@@ -1,7 +1,5 @@
 <h1> Hi there 👋, I'm Sebastian! </h1>
 
-<img src="cs2.gif" alt="Gif" width="25%" align="right">
-
 <ins>**CS Student @ UTEC**</ins>
 
 *I'm a **Computer Science student** based in Lima, Peru. Focused on clean code, modern infrastructure, and AI. <br/>
