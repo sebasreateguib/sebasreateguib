@@ -1,6 +1,6 @@
 <h1> Hi there 👋, I'm Sebastian! </h1>
 
-<img src="cs2.gif" alt="Gif" width="20%" align="right">
+<img src="cs2.gif" alt="Gif" width="30%" align="right">
 
 <ins>**CS Student @ UTEC**</ins>
 
