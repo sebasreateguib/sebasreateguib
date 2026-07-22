@@ -1,6 +1,6 @@
 <h1> Hi there 👋, I'm Sebastian! </h1>
 
-![Header](header.png)
+<img src="header.png" alt="Texto alternativo" width="85%">
 
 <ins>**CS Student @ UTEC**</ins>
 
