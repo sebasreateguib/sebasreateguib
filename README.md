@@ -43,6 +43,6 @@ Also seeking future roles as an AI Engineer or Full Stack Developer.*
 
 ---
 
-*Shooting down bugs before they reach prod lol*
+*Shooting down bugs before they reach prod.*
 
 ![Space Shooter Game](./game.gif)
