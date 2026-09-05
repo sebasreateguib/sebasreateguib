@@ -16,9 +16,9 @@
 
 ```yaml
 philosophy: "I always enjoy learning new things and giving my best to every project."
-located_in: Lima, Peru
-education: "3rd-year Computer Science Student @ UTEC."
-company: Open to internships or freelance projects!
+located_in: "Lima, Peru"
+education: "3rd-year Computer Science Student @ UTEC"
+company: "Open to internships or freelance projects!"
 fields_of_interests:
   [
     "AI",
@@ -26,7 +26,7 @@ fields_of_interests:
     "Infrastructure",
     "Systems Optimization",
   ]
-currently_learning: ["Lang Graph/Lang Chain", "Rust", "NestJS"]
+currently_learning: ["LangGraph", "LangChain", "Rust", "NestJS"]
 2026_goals: 
   [
     "Just trying to survive third year lol", 
