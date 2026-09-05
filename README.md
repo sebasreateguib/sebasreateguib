@@ -2,7 +2,7 @@
 
 <ins>**CS Student @ UTEC**</ins>
 
-*I'm a **Computer Science student** based in Lima, Peru. Passionate about AI & ML Engineering, Full Stack Development, Systems Optimization and Cloud-Native Infrastructure. Open to internships or freelance projects!*
+*I'm a **Computer Science student** based in Lima, Peru. Passionate about AI & ML Engineering, Full Stack Development, Systems Optimization and Cloud-Native Infrastructure.*
 
 <p align="left">
   <a href="https://sreateguibellido.xyz/" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=007BFF" alt="Portfolio" /></a>&nbsp;
@@ -17,6 +17,13 @@
 *I always enjoy learning new things and giving my best to every project.*
 
 ```yaml
+located_in: Lima, Peru
+current_job: CS Student @ UTEC
+education:
+  [
+    "3rd-year Computer Science Student @ UTEC",
+  ]
+company: Open to internships or freelance projects!
 fields_of_interests:
   [
     "AI",
