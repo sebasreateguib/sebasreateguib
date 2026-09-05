@@ -14,9 +14,8 @@
 
 ## About me
 
-*I always enjoy learning new things and giving my best to every project.*
-
 ```yaml
+philosophy: "I always enjoy learning new things and giving my best to every project."
 located_in: Lima, Peru
 current_job: CS Student @ UTEC
 education:
