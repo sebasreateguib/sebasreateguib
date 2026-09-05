@@ -17,10 +17,7 @@
 ```yaml
 philosophy: "I always enjoy learning new things and giving my best to every project."
 located_in: Lima, Peru
-education:
-  [
-    "3rd-year Computer Science Student @ UTEC",
-  ]
+education: "3rd-year Computer Science Student @ UTEC."
 company: Open to internships or freelance projects!
 fields_of_interests:
   [
