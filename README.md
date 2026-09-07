@@ -16,13 +16,6 @@
 
 *3rd-year Computer Science Student. I always enjoy learning new things and giving my best to every project.*
 
-<p>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sebasreateguib&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" height="165" />
-  &nbsp;&nbsp;
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sebasreateguib&theme=dark" alt="GitHub Streak" height="165" />
-  </a>
-</p>
-
 ```yaml
 company: "Open to internships or freelance projects!"
 currently_learning: ["LangGraph", "LangChain", "Rust", "NestJS"]
@@ -32,6 +25,13 @@ currently_learning: ["LangGraph", "LangChain", "Rust", "NestJS"]
     "Land a role as an AI Engineer or Full Stack Developer",
   ]
 ```
+
+<p>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sebasreateguib&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" height="165" />
+  &nbsp;&nbsp;
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sebasreateguib&theme=dark" alt="GitHub Streak" height="165" />
+  </a>
+</p>
 
 ## Tech Stack
 *A collection of tools, languages, and frameworks I have built projects with, learned throughout my university journey, or am actively exploring.*
