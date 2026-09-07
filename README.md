@@ -10,6 +10,12 @@
   <a href="mailto:reateguisebastian1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
+---
+
+## About me
+
+*3rd-year Computer Science Student. I always enjoy learning new things and giving my best to every project.*
+
 <p>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sebasreateguib&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" height="165" />
   &nbsp;&nbsp;
@@ -17,22 +23,8 @@
   </a>
 </p>
 
----
-
-## About me
-
 ```yaml
-philosophy: "I always enjoy learning new things and giving my best to every project."
-located_in: "Lima, Peru"
-education: "3rd-year Computer Science Student @ UTEC"
 company: "Open to internships or freelance projects!"
-fields_of_interests:
-  [
-    "AI",
-    "Full Stack Development",
-    "Infrastructure",
-    "Systems Optimization",
-  ]
 currently_learning: ["LangGraph", "LangChain", "Rust", "NestJS"]
 2026_goals: 
   [
