@@ -21,7 +21,7 @@ company: "Open to internships or freelance projects!"
 currently_learning: ["LangGraph", "LangChain", "Rust", "NestJS"]
 2026_goals: 
   [
-    "Just trying to survive third year lol", 
+    "Survive my third year lol", 
     "Land a role as an AI Engineer or Full Stack Developer",
   ]
 ```
