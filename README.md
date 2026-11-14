@@ -1,4 +1,4 @@
-<h1> Hi there 👋, I'm Sebastian! </h1>
+<h1> Hello there, SR here. </h1>
 
 <ins>**CS Student @ UTEC**</ins>
 
